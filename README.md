@@ -1,6 +1,6 @@
 ### Hi There 👋 I am Tolga & this is my GitHub profile.
 
-I am a Frontend developer from Denmark and I can speak and write English and I have studied in _Roskile Technical School as a Web Developer_
+I am a Frontend developer from Denmark, I can speak and write English and I have studied in _Roskile Technical School as a Web Developer_
 
 Skills:
 [<img src='https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg' alt='css3' height='40'>]()
