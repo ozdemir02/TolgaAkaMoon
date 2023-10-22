@@ -14,8 +14,8 @@ Skills:
 [<img src='https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg' alt='tailwind' height='40'>]()
 [<img src='https://api.blog.philo.co.nz/image/get/b121bf04-8f56-41e8-c7dc-08d6858dfc06' alt='' height='40'>]()
 
--🔭 I’m currently working on PWA. <br />
--🌱 I’m currently learning Front-end. <br />
+-🔭 I’m currently working on Software-construction. <br />
+-🌱 I’m currently learning Software-development. <br />
 -💬 Ask me anything. <br />
 -📫 Portfolio: https://tolga-portfolio.netlify.app/ <br />
 
